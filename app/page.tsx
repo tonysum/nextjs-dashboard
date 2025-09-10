@@ -35,11 +35,10 @@ export default function Page() {
           {/* Add Hero Images Here */}
           <Image
             src="/hero-mobile.png"
-            alt="Hero Image"
             width={1000}
             height={760}
-            className="hidden md:block"
             alt="screenshots of the dashboard project showing desktop version" 
+            className="hidden md:block"
           />
         </div>
       </div>
